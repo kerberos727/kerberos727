@@ -1,4 +1,4 @@
-<h1 align="center">"Programming isn't about what you know; it's about what you can figure out"</h1>
+<h1 align="center">"Full Stack & Blockchain Engineer"</h1>
 
 <!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
 
