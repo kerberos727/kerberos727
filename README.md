@@ -2,34 +2,34 @@
 
 <!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&duration=5000&pause=1000&lines=I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baskervville+SC&size=40&center=true&vCenter=true&width=1000&height=100&duration=5000&pause=1500&lines=I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" /> -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alwayswelcom.alwayswelcom" />
 <h1 align="center"></h1>
 
-### ✨ Legend ✨ Full Stack & Blockchain  Engineer
+### ✨ Legend ✨ Creative Full Stack & Blockchain  Engineer With 10 Years Of Experience
 
 <br/>
 
-Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀, I thrive on challenge, I work well under pressure. I generally take a pro-active approach to analyze and formulate a solution.
+Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀!!! Especially, extensive experience in Blockchain development focusing on Web3.js and Solidity/Rust , and Frontend development focusing on React.js, Vue.js, and JavaScript/TypeScript. I am dedicated to building and optimizing user-focused applications for customers with variety of business goals. I like to take a proactive approach to analyze and formulate a solution.
+
 
 ####       ![](https://img.shields.io/badge/SmartContract-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Substrate&Polkadot-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CosmosSDK&TendermintCore-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Defi-Strategy-%7C-ff69b4) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
 
 
 **Core Strength:**
- - Javascript/Typescript
+ - Blockchain: Solidity, Hardhat, Remix, Rust, Anchor, Solana CLI
+ - PHP/C/C++/C#, JavaScript/TypeScript, HTML5, CSS, Bootstrap, Tailwind CSS, Material-UI
  - ReactJS/NextJS, VueJS/NuxtJS
- - NodeJS/NestJS
+ - NodeJS/ExpressJS/NestJS
  - Python/Django
- - Ruby on Rails
- - MySQL/MongoDB/PostgreSQL
- - Blockchain Core Logic
- - Cosmos & Tendermint Core
- - Smart Contract
- - Solidity/Rust
- - Git CI/CD, Unit test
- - Docker, AWS
+ - MYSQL, SQLite, PostgreSQL, MongoDB, MSSQL, Redis
+ - Jest, Cypress Enzyme, Chai, Mocha
+ - Git (Github/Gitlab/BitBucket), Bazaar
+ - Jira, Asana, Trello, Microsoft Azure DevOps, Basecamp
+ - Docker, Kubernetes, Amazon Elastic Container Service, Google Kubernetes Engine
+
 
 **Languages and Tools:**   
 <table>
