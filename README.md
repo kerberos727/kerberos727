@@ -14,7 +14,7 @@
 Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀!!! Especially, extensive experience in Blockchain development focusing on Web3.js and Solidity/Rust , and Frontend development focusing on React.js, Vue.js, and JavaScript/TypeScript. I am dedicated to building and optimizing user-focused applications for customers with variety of business goals. I like to take a proactive approach to analyze and formulate a solution.
 
 
-####       ![](https://img.shields.io/badge/Smart Contract-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Frontend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet)
+####       ![](https://img.shields.io/badge/Smart%Contract-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Frontend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet)
 
 
 
