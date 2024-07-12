@@ -2,7 +2,7 @@
 
 <!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baskervville+SC&size=40&center=true&vCenter=true&width=1000&height=100&duration=5000&pause=1500&lines=I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Baskervville+SC&size=30&center=true&vCenter=true&width=1000&height=100&duration=5000&pause=1500&lines=I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" /> -->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alwayswelcom.alwayswelcom" />
 <h1 align="center"></h1>
