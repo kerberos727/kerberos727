@@ -25,18 +25,5 @@ Hi,👋🏽 Lead Senior Software Engineer with 10+ years of experience building 
  - Architecture & Methodologies: Microservices, TDD, Agile/Scrum, OOP
  - Third-Party Integrations & Platforms: Stripe, Twilio, Firebase, Cross-Platform Optimization, Anthropic, Amplitude
 
-
-**Languages and Tools:**   
-<table>
-   <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="python" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="java" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="kotlin" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="golang" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="golang" height="45"></td>
-    </tr>
-</table>
-
   <br>
 </p>
